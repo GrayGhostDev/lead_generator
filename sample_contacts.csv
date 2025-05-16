@@ -1,0 +1,3 @@
+first_name,last_name,email,phone,title,company_name,company_website,company_industry,company_size,company_location,linkedin_url,notes
+Alice,Smith,alice.smith@example.com,+1-555-123-4567,CTO,Acme Corp,https://acme.com,Software,200,"New York, USA",https://linkedin.com/in/alicesmith,Sample contact
+Bob,Johnson,bob.johnson@example.com,+1-555-987-6543,VP Engineering,Beta Inc,https://beta.com,Technology,500,"San Francisco, USA",https://linkedin.com/in/bobjohnson,Sample contact 

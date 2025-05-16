@@ -1,0 +1,8 @@
+pandas
+selenium
+python-dotenv
+requests
+tqdm 
+rocketreach
+stripe
+flask
