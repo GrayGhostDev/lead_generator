@@ -1,18 +1,65 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*$py.class
 
-# Logs
-*.log
+# C extensions
+*.so
 
-# Output directories
-output/
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# Environment variables
+# Virtual environments
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# pytest
+.cache
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# dotenv environment variables
 .env
+.env.*
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# VS Code
+.vscode/
 
-# VSCode
-.vscode/ 
+# Mac OS
+.DS_Store
+
+# Other
+*.log
+lead_gen.log
+output/ 
